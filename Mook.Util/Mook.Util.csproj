@@ -3,12 +3,12 @@
   <PropertyGroup>
 	  <TargetFrameworks>net45;netstandard2.0</TargetFrameworks>
 	  <Description>Common Utils</Description>
-	  <Version>1.6.1</Version>
+	  <Version>1.6.3</Version>
 	  <Authors>Mook</Authors>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="IdGen" Version="3.0.1" />
+    <PackageReference Include="IdGen" Version="3.0.2" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="NPOI" Version="2.5.6" />
     <PackageReference Include="System.Net.Http" Version="4.3.4" />
