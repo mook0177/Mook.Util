@@ -65,9 +65,9 @@ namespace Mook.Util
         /// </summary>
         /// <param name="jsonStr">json字符串</param>
         /// <returns></returns>
-        public static IDictionary<string, string> ToDictionary(string jsonStr)
+        public static Dictionary<string, string> ToDictionary(string jsonStr)
         {
-            return JsonConvert.DeserializeObject<IDictionary<string, string>>(jsonStr);
+            return JsonConvert.DeserializeObject<Dictionary<string, string>>(jsonStr);
         }
 
         /// <summary>

@@ -3,7 +3,7 @@
   <PropertyGroup>
 	  <TargetFrameworks>net45;netstandard2.0</TargetFrameworks>
 	  <Description>Common Utils</Description>
-	  <Version>1.6.3</Version>
+	  <Version>1.6.4</Version>
 	  <Authors>Mook</Authors>
   </PropertyGroup>
 
